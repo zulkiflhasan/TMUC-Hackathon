@@ -1,0 +1,1 @@
+{"outputDirectory":"public","framework":null,"rewrites":[{"source":"/admin","destination":"/index.html"},{"source":"/stage","destination":"/index.html"}]}

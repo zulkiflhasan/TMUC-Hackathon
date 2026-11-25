@@ -1,0 +1,1 @@
+{"name":"prompt-hackathon-arena","version":"1.0.0","private":true,"scripts":{"dev":"node dev.cjs","test":"node --test tests.cjs"},"engines":{"node":"22.x"}}
